@@ -1,6 +1,6 @@
 # Hi, I'm Remsha 👋
 
-Aspiring Cloud Engineer based in Orlando, FL.
+Cloud Engineer based in Orlando, FL.
 MS in IT Management — now building real cloud skills through hands-on projects.
 
 ## 🔧 What I'm Building
@@ -8,7 +8,6 @@ MS in IT Management — now building real cloud skills through hands-on projects
 - Cloud automation scripts with Python + boto3
 - AWS projects: EC2, S3, Lambda, CloudWatch, IAM
 - Containerized apps with Docker
-- Studying for AWS Solution Architect Associate certification
 
 ## 🛠 Tech Stack
 
